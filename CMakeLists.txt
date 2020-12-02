@@ -13,7 +13,7 @@ ADD_EXECUTABLE(test
 
 )
 
-ADD_EXECUTABLE(lab
+ADD_EXECUTABLE(calculator
     main.cpp
 )
 

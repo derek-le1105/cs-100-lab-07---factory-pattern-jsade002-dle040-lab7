@@ -10,6 +10,7 @@
 #include "tests/List_tests.hpp"
 #include "tests/Sort_Tests.hpp"
 #include "tests/Vector_Tests.hpp"
+#include "tests/factory_tests.hpp"
 
 int main(int argc, char **argv) {
   ::testing::InitGoogleTest(&argc, argv);
